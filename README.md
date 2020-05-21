@@ -6,6 +6,8 @@ Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo.
 
 Start date: April 24th, 2019.
 
+SDK tools:Qualcomm 3D Audio Plugin for Unity
+
 Function description:
 
 Import the Qualcomm 3D audio plugin into Unity and add planetary sound effects to create a solar system with 3D sound.
